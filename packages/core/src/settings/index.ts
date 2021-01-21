@@ -192,6 +192,7 @@ export const settingsConfig: Array<Setting> = [
       { key: 'gr', text: 'Greek', value: 'gr'},
       { key: 'hr', text: 'Hrvatski', value: 'hr'},
       { key: 'is', text: 'Íslenska', value: 'is' }
+      { key: 'ja', text: '日本語', value: 'ja' }
     ],
     default: undefined
   }, {

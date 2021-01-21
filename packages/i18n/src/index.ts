@@ -22,6 +22,7 @@ import se from './locales/se.json';
 import gr from './locales/gr.json';
 import hr from './locales/hr.json';
 import is from './locales/is.json';
+import ja from './locales/ja.json';
 
 interface I18nOptions {
   languageDetector: LanguageDetectorModule;
@@ -55,7 +56,8 @@ export const setupI18n = ({ languageDetector, debug, react }: I18nOptions) => {
       se,
       gr,
       hr,
-      is
+      is,
+      ja
     },
     interpolation: {
       escapeValue: false
