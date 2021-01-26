@@ -20,6 +20,7 @@ Discord channel: https://discord.gg/JqPjKxE
 Readme translations: 
 * [Brazilian Portuguese](docs/README-ptbr.md)
 * [Swedish](docs/README-se.md)
+* [Japanese](docs/README-ja.md)
 
 ## What is this?
 nuclear is a free music streaming program that pulls content from free sources all over the internet.
@@ -89,6 +90,8 @@ Nuclear has already been translated to several languages, and we're always looki
 | Traditional Chinese  | [oxygen-TW](https://github.com/oxygen-TW)                                                            |
 | Swedish              | [PalleKarlsson](https://github.com/PalleKarlsson)                                                    |
 | Greek                | [Shuin-San](https://github.com/Shuin-San)                                                            |
+| Japanese             | [Conochy](https://github.com/conochy)                                                                |
+
 
 ## Development process
 
